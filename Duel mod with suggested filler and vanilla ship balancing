@@ -170,7 +170,7 @@ var vocabulary = [
   ] ;
 
 this.options = {
-  map_name: "Dueling v2.1", 
+  map_name: "Vanilla changes v0.1", 
   root_mode: "",
   ships: adminTools,
   reset_tree: false,
