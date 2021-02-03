@@ -84,8 +84,8 @@ this.options = {
   ships: adminTools,
   reset_tree: false,
   max_players: 60,
+  lives: 4,
   map_id: 439,
-  lives: 5,
   map_size: 70,
   //custom_map: [],
   crystal_value: 2,
@@ -93,7 +93,7 @@ this.options = {
   survival_level: 8,
   //starting_ship: 800, //infinit lives
   speed_mod: 1.2,
-  //shield_regen_factor: 0,
+  //weapons_store: false,
 
 } ;
 
