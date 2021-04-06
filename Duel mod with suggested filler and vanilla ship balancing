@@ -196,6 +196,7 @@ this.options = {
   asteroids_strength: 1, 
   survival_level: 8,
   //custom_map: [],
+  map_id: 4990,
   speed_mod: 1.2,
   weapons_store: false,
   //friendly_colors: 2, 
