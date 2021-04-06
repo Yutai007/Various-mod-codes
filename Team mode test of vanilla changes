@@ -79,7 +79,6 @@ var adminTools = [
   Sinistyte_704,
   Aries_705,
   ];
-
 this.options = {
   map_name: "Vanilla changes v0.6.3", 
   root_mode: "team",
