@@ -206,7 +206,7 @@ this.options = {
   speed_mod: 1.2,
   weapons_store: false,
   healing_enabled: true,
-  strafe: 1,
+  //strafe: 1,
   //friendly_colors: 2, 
   starting_ship: 800, 
   //shield_regen_factor: 0, 
